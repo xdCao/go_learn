@@ -4,4 +4,5 @@ use (
 	.
 	./procedural/sort
 	./object/player
+	./concurrent/chess/ipc
 )
